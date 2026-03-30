@@ -1,1 +1,1 @@
-rootProject.name = "steam-profile-picture-switch"
+rootProject.name = "clikt-graalvm-template"
